@@ -36,4 +36,10 @@ add a number of walkthroughs, showing things such as:
 ## Running Locally
 
 1. Install dependencies: `yarn`
-1. Start the dev server: `yarn dev`
+2. Start the dev server: `yarn dev`
+3. Visit：http://localhost:3002
+
+## Communication
+https://work.weixin.qq.com/ca/cawcde525445083bde
+<img width="307" alt="image" src="https://github.com/javastarboy/llm-viz/assets/43975677/5f97e3ee-d3ba-492c-b1d0-2aec14311aed">
+
